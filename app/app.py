@@ -1,3 +1,4 @@
+import os
 from typing import List, Dict
 import mysql.connector
 import simplejson as json
